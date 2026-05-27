@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29613.14
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apis", "apis", "{78740AE4-CA39-4892-B262-7FC77BF31E3A}"
 EndProject
@@ -167,7 +167,8 @@ Global
 		{D3231052-575C-4D58-BA38-2C01B10BF205}.Release64|x64.ActiveCfg = Release|Win32
 		{358586C9-A4B8-43E4-8376-59C68F0F6211}.Debug|Win32.ActiveCfg = Debug|Win32
 		{358586C9-A4B8-43E4-8376-59C68F0F6211}.Debug|Win32.Build.0 = Debug|Win32
-		{358586C9-A4B8-43E4-8376-59C68F0F6211}.Debug|x64.ActiveCfg = Debug|Win32
+		{358586C9-A4B8-43E4-8376-59C68F0F6211}.Debug|x64.ActiveCfg = Debug|x64
+		{358586C9-A4B8-43E4-8376-59C68F0F6211}.Debug|x64.Build.0 = Debug|x64
 		{358586C9-A4B8-43E4-8376-59C68F0F6211}.Debug64|Win32.ActiveCfg = Debug|Win32
 		{358586C9-A4B8-43E4-8376-59C68F0F6211}.Debug64|Win32.Build.0 = Debug|Win32
 		{358586C9-A4B8-43E4-8376-59C68F0F6211}.Debug64|x64.ActiveCfg = Debug|Win32
